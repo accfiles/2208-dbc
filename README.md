@@ -1,4 +1,4 @@
-# 2208-dbc bootcamp files
+# OLD 2208-dbc bootcamp files (from August 2022)
 
 Lab files already loaded in the VM:
 
